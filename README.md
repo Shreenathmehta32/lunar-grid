@@ -7,7 +7,7 @@ A futuristic space dashboard built with **HTML, CSS, and JavaScript** — explor
 
 ## 🛰️ Live Demo
 
-> Coming Soon — deploy on [Vercel](https://vercel.com/) or [GitHub Pages](https://pages.github.com/)
+> Coming Soon — deploy on [Vercel](https://lunar-grid-phi.vercel.app/) 
 
 ---
 
