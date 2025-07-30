@@ -11,9 +11,6 @@ A futuristic space dashboard built with **HTML, CSS, and JavaScript** — explor
 
 ---
 
-## 📸 Preview
-
-![Lunar Grid Preview](https://ibb.co/tTX9nCbp)
 
 ---
 
