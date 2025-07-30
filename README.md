@@ -13,7 +13,7 @@ A futuristic space dashboard built with **HTML, CSS, and JavaScript** — explor
 
 ## 📸 Preview
 
-![Lunar Grid Preview](https://img.freepik.com/free-vector/sacred-geometry-symbol-background-experience-spiritual-energy_48903479.jpg)
+![Lunar Grid Preview](https://ibb.co/tTX9nCbp)
 
 ---
 
