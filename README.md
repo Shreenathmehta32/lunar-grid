@@ -11,6 +11,8 @@ A futuristic space dashboard built with **HTML, CSS, and JavaScript** — explor
 
 ---
 
+Teammate - Ved Dandotia and Vishakha Gorani
+
 
 ---
 
